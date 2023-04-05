@@ -1,0 +1,215 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\gessi\\OneDrive\\Documentos\\Neon\\Kafka\\ProducerKafka\\ProducerKafka\\ProducerKafka\\ProducerKafka.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\gessi\\OneDrive\\Documentos\\Neon\\Kafka\\ProducerKafka\\ProducerKafka\\Domain\\Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\gessi\\OneDrive\\Documentos\\Neon\\Kafka\\ProducerKafka\\ProducerKafka\\Domain\\Domain.csproj",
+        "projectName": "Domain",
+        "projectPath": "C:\\Users\\gessi\\OneDrive\\Documentos\\Neon\\Kafka\\ProducerKafka\\ProducerKafka\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\gessi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gessi\\OneDrive\\Documentos\\Neon\\Kafka\\ProducerKafka\\ProducerKafka\\Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\gessi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Confluent.Kafka": {
+              "target": "Package",
+              "version": "[1.9.3, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.310\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\gessi\\OneDrive\\Documentos\\Neon\\Kafka\\ProducerKafka\\ProducerKafka\\IoC\\IoC.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\gessi\\OneDrive\\Documentos\\Neon\\Kafka\\ProducerKafka\\ProducerKafka\\IoC\\IoC.csproj",
+        "projectName": "IoC",
+        "projectPath": "C:\\Users\\gessi\\OneDrive\\Documentos\\Neon\\Kafka\\ProducerKafka\\ProducerKafka\\IoC\\IoC.csproj",
+        "packagesPath": "C:\\Users\\gessi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gessi\\OneDrive\\Documentos\\Neon\\Kafka\\ProducerKafka\\ProducerKafka\\IoC\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\gessi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\gessi\\OneDrive\\Documentos\\Neon\\Kafka\\ProducerKafka\\ProducerKafka\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\gessi\\OneDrive\\Documentos\\Neon\\Kafka\\ProducerKafka\\ProducerKafka\\Domain\\Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.Options.ConfigurationExtensions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.310\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\gessi\\OneDrive\\Documentos\\Neon\\Kafka\\ProducerKafka\\ProducerKafka\\ProducerKafka\\ProducerKafka.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\gessi\\OneDrive\\Documentos\\Neon\\Kafka\\ProducerKafka\\ProducerKafka\\ProducerKafka\\ProducerKafka.csproj",
+        "projectName": "ProducerKafka",
+        "projectPath": "C:\\Users\\gessi\\OneDrive\\Documentos\\Neon\\Kafka\\ProducerKafka\\ProducerKafka\\ProducerKafka\\ProducerKafka.csproj",
+        "packagesPath": "C:\\Users\\gessi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gessi\\OneDrive\\Documentos\\Neon\\Kafka\\ProducerKafka\\ProducerKafka\\ProducerKafka\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\gessi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\gessi\\OneDrive\\Documentos\\Neon\\Kafka\\ProducerKafka\\ProducerKafka\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\gessi\\OneDrive\\Documentos\\Neon\\Kafka\\ProducerKafka\\ProducerKafka\\Domain\\Domain.csproj"
+              },
+              "C:\\Users\\gessi\\OneDrive\\Documentos\\Neon\\Kafka\\ProducerKafka\\ProducerKafka\\IoC\\IoC.csproj": {
+                "projectPath": "C:\\Users\\gessi\\OneDrive\\Documentos\\Neon\\Kafka\\ProducerKafka\\ProducerKafka\\IoC\\IoC.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Confluent.Kafka": {
+              "target": "Package",
+              "version": "[1.9.3, )"
+            },
+            "Microsoft.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.310\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

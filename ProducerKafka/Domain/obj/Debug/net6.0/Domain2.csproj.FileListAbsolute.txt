@@ -1,0 +1,12 @@
+C:\Users\U002548\OneDrive - Neon Pagamentos S.A\Estudos\kafka\kafka-teste\ProducerKafka\Domain\bin\Debug\net6.0\Domain2.deps.json
+C:\Users\U002548\OneDrive - Neon Pagamentos S.A\Estudos\kafka\kafka-teste\ProducerKafka\Domain\bin\Debug\net6.0\Domain2.dll
+C:\Users\U002548\OneDrive - Neon Pagamentos S.A\Estudos\kafka\kafka-teste\ProducerKafka\Domain\bin\Debug\net6.0\Domain2.pdb
+C:\Users\U002548\OneDrive - Neon Pagamentos S.A\Estudos\kafka\kafka-teste\ProducerKafka\Domain\obj\Debug\net6.0\Domain2.csproj.AssemblyReference.cache
+C:\Users\U002548\OneDrive - Neon Pagamentos S.A\Estudos\kafka\kafka-teste\ProducerKafka\Domain\obj\Debug\net6.0\Domain2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\U002548\OneDrive - Neon Pagamentos S.A\Estudos\kafka\kafka-teste\ProducerKafka\Domain\obj\Debug\net6.0\Domain2.AssemblyInfoInputs.cache
+C:\Users\U002548\OneDrive - Neon Pagamentos S.A\Estudos\kafka\kafka-teste\ProducerKafka\Domain\obj\Debug\net6.0\Domain2.AssemblyInfo.cs
+C:\Users\U002548\OneDrive - Neon Pagamentos S.A\Estudos\kafka\kafka-teste\ProducerKafka\Domain\obj\Debug\net6.0\Domain2.csproj.CoreCompileInputs.cache
+C:\Users\U002548\OneDrive - Neon Pagamentos S.A\Estudos\kafka\kafka-teste\ProducerKafka\Domain\obj\Debug\net6.0\Domain2.dll
+C:\Users\U002548\OneDrive - Neon Pagamentos S.A\Estudos\kafka\kafka-teste\ProducerKafka\Domain\obj\Debug\net6.0\refint\Domain2.dll
+C:\Users\U002548\OneDrive - Neon Pagamentos S.A\Estudos\kafka\kafka-teste\ProducerKafka\Domain\obj\Debug\net6.0\Domain2.pdb
+C:\Users\U002548\OneDrive - Neon Pagamentos S.A\Estudos\kafka\kafka-teste\ProducerKafka\Domain\obj\Debug\net6.0\ref\Domain2.dll

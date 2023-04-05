@@ -1,0 +1,45 @@
+C:\Users\U002548\OneDrive - Neon Pagamentos S.A\Estudos\kafka\kafka-teste\ConsumerKafka\IoC\bin\Debug\net6.0\IoC.deps.json
+C:\Users\U002548\OneDrive - Neon Pagamentos S.A\Estudos\kafka\kafka-teste\ConsumerKafka\IoC\bin\Debug\net6.0\IoC.dll
+C:\Users\U002548\OneDrive - Neon Pagamentos S.A\Estudos\kafka\kafka-teste\ConsumerKafka\IoC\bin\Debug\net6.0\IoC.pdb
+C:\Users\U002548\OneDrive - Neon Pagamentos S.A\Estudos\kafka\kafka-teste\ConsumerKafka\IoC\bin\Debug\net6.0\Domain.dll
+C:\Users\U002548\OneDrive - Neon Pagamentos S.A\Estudos\kafka\kafka-teste\ConsumerKafka\IoC\bin\Debug\net6.0\Domain.pdb
+C:\Users\U002548\OneDrive - Neon Pagamentos S.A\Estudos\kafka\kafka-teste\ConsumerKafka\IoC\obj\Debug\net6.0\IoC.csproj.AssemblyReference.cache
+C:\Users\U002548\OneDrive - Neon Pagamentos S.A\Estudos\kafka\kafka-teste\ConsumerKafka\IoC\obj\Debug\net6.0\IoC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\U002548\OneDrive - Neon Pagamentos S.A\Estudos\kafka\kafka-teste\ConsumerKafka\IoC\obj\Debug\net6.0\IoC.AssemblyInfoInputs.cache
+C:\Users\U002548\OneDrive - Neon Pagamentos S.A\Estudos\kafka\kafka-teste\ConsumerKafka\IoC\obj\Debug\net6.0\IoC.AssemblyInfo.cs
+C:\Users\U002548\OneDrive - Neon Pagamentos S.A\Estudos\kafka\kafka-teste\ConsumerKafka\IoC\obj\Debug\net6.0\IoC.csproj.CoreCompileInputs.cache
+C:\Users\U002548\OneDrive - Neon Pagamentos S.A\Estudos\kafka\kafka-teste\ConsumerKafka\IoC\obj\Debug\net6.0\IoC.csproj.CopyComplete
+C:\Users\U002548\OneDrive - Neon Pagamentos S.A\Estudos\kafka\kafka-teste\ConsumerKafka\IoC\obj\Debug\net6.0\IoC.dll
+C:\Users\U002548\OneDrive - Neon Pagamentos S.A\Estudos\kafka\kafka-teste\ConsumerKafka\IoC\obj\Debug\net6.0\refint\IoC.dll
+C:\Users\U002548\OneDrive - Neon Pagamentos S.A\Estudos\kafka\kafka-teste\ConsumerKafka\IoC\obj\Debug\net6.0\IoC.pdb
+C:\Users\U002548\OneDrive - Neon Pagamentos S.A\Estudos\kafka\kafka-teste\ConsumerKafka\IoC\obj\Debug\net6.0\ref\IoC.dll
+G:\Meu Drive\Documents\Estudos\kafka\kafka-teste\ConsumerKafka\IoC\bin\Debug\net6.0\IoC.deps.json
+G:\Meu Drive\Documents\Estudos\kafka\kafka-teste\ConsumerKafka\IoC\bin\Debug\net6.0\IoC.dll
+G:\Meu Drive\Documents\Estudos\kafka\kafka-teste\ConsumerKafka\IoC\bin\Debug\net6.0\IoC.pdb
+G:\Meu Drive\Documents\Estudos\kafka\kafka-teste\ConsumerKafka\IoC\bin\Debug\net6.0\Domain.dll
+G:\Meu Drive\Documents\Estudos\kafka\kafka-teste\ConsumerKafka\IoC\bin\Debug\net6.0\Domain.pdb
+G:\Meu Drive\Documents\Estudos\kafka\kafka-teste\ConsumerKafka\IoC\obj\Debug\net6.0\IoC.csproj.AssemblyReference.cache
+G:\Meu Drive\Documents\Estudos\kafka\kafka-teste\ConsumerKafka\IoC\obj\Debug\net6.0\IoC.GeneratedMSBuildEditorConfig.editorconfig
+G:\Meu Drive\Documents\Estudos\kafka\kafka-teste\ConsumerKafka\IoC\obj\Debug\net6.0\IoC.AssemblyInfoInputs.cache
+G:\Meu Drive\Documents\Estudos\kafka\kafka-teste\ConsumerKafka\IoC\obj\Debug\net6.0\IoC.AssemblyInfo.cs
+G:\Meu Drive\Documents\Estudos\kafka\kafka-teste\ConsumerKafka\IoC\obj\Debug\net6.0\IoC.csproj.CoreCompileInputs.cache
+G:\Meu Drive\Documents\Estudos\kafka\kafka-teste\ConsumerKafka\IoC\obj\Debug\net6.0\IoC.csproj.CopyComplete
+G:\Meu Drive\Documents\Estudos\kafka\kafka-teste\ConsumerKafka\IoC\obj\Debug\net6.0\IoC.dll
+G:\Meu Drive\Documents\Estudos\kafka\kafka-teste\ConsumerKafka\IoC\obj\Debug\net6.0\refint\IoC.dll
+G:\Meu Drive\Documents\Estudos\kafka\kafka-teste\ConsumerKafka\IoC\obj\Debug\net6.0\IoC.pdb
+G:\Meu Drive\Documents\Estudos\kafka\kafka-teste\ConsumerKafka\IoC\obj\Debug\net6.0\ref\IoC.dll
+C:\Users\U002548\Downloads\kafka-teste\kafka-teste\ConsumerKafka\IoC\bin\Debug\net6.0\IoC.deps.json
+C:\Users\U002548\Downloads\kafka-teste\kafka-teste\ConsumerKafka\IoC\bin\Debug\net6.0\IoC.dll
+C:\Users\U002548\Downloads\kafka-teste\kafka-teste\ConsumerKafka\IoC\bin\Debug\net6.0\IoC.pdb
+C:\Users\U002548\Downloads\kafka-teste\kafka-teste\ConsumerKafka\IoC\bin\Debug\net6.0\Domain.dll
+C:\Users\U002548\Downloads\kafka-teste\kafka-teste\ConsumerKafka\IoC\bin\Debug\net6.0\Domain.pdb
+C:\Users\U002548\Downloads\kafka-teste\kafka-teste\ConsumerKafka\IoC\obj\Debug\net6.0\IoC.csproj.AssemblyReference.cache
+C:\Users\U002548\Downloads\kafka-teste\kafka-teste\ConsumerKafka\IoC\obj\Debug\net6.0\IoC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\U002548\Downloads\kafka-teste\kafka-teste\ConsumerKafka\IoC\obj\Debug\net6.0\IoC.AssemblyInfoInputs.cache
+C:\Users\U002548\Downloads\kafka-teste\kafka-teste\ConsumerKafka\IoC\obj\Debug\net6.0\IoC.AssemblyInfo.cs
+C:\Users\U002548\Downloads\kafka-teste\kafka-teste\ConsumerKafka\IoC\obj\Debug\net6.0\IoC.csproj.CoreCompileInputs.cache
+C:\Users\U002548\Downloads\kafka-teste\kafka-teste\ConsumerKafka\IoC\obj\Debug\net6.0\IoC.csproj.CopyComplete
+C:\Users\U002548\Downloads\kafka-teste\kafka-teste\ConsumerKafka\IoC\obj\Debug\net6.0\IoC.dll
+C:\Users\U002548\Downloads\kafka-teste\kafka-teste\ConsumerKafka\IoC\obj\Debug\net6.0\refint\IoC.dll
+C:\Users\U002548\Downloads\kafka-teste\kafka-teste\ConsumerKafka\IoC\obj\Debug\net6.0\IoC.pdb
+C:\Users\U002548\Downloads\kafka-teste\kafka-teste\ConsumerKafka\IoC\obj\Debug\net6.0\ref\IoC.dll
